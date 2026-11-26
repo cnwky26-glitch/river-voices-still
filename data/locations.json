@@ -1,0 +1,56 @@
+[
+  {
+    "id": "huangyuan",
+    "name": "湟源县",
+    "adcode": 630123,
+    "latitude": 36.684818,
+    "longitude": 101.263435,
+    "precision": "地区参考中心，非采访坐标",
+    "coordinate_source": "https://geo.datav.aliyun.com/areas_v3/bound/630100_full.json"
+  },
+  {
+    "id": "huanxian",
+    "name": "环县",
+    "adcode": 621022,
+    "latitude": 36.569322,
+    "longitude": 107.308754,
+    "precision": "地区参考中心，非采访坐标",
+    "coordinate_source": "https://geo.datav.aliyun.com/areas_v3/bound/621000_full.json"
+  },
+  {
+    "id": "yuyang",
+    "name": "榆阳区",
+    "adcode": 610802,
+    "latitude": 38.299267,
+    "longitude": 109.74791,
+    "precision": "地区参考中心，非采访坐标",
+    "coordinate_source": "https://geo.datav.aliyun.com/areas_v3/bound/610800_full.json"
+  },
+  {
+    "id": "dengkou",
+    "name": "磴口县",
+    "adcode": 150822,
+    "latitude": 40.330479,
+    "longitude": 107.006056,
+    "precision": "地区参考中心，非采访坐标",
+    "coordinate_source": "https://geo.datav.aliyun.com/areas_v3/bound/150800_full.json"
+  },
+  {
+    "id": "lankao",
+    "name": "兰考县",
+    "adcode": 410225,
+    "latitude": 34.829899,
+    "longitude": 114.820572,
+    "precision": "地区参考中心，非采访坐标",
+    "coordinate_source": "https://geo.datav.aliyun.com/areas_v3/bound/410200_full.json"
+  },
+  {
+    "id": "changyi",
+    "name": "昌邑市",
+    "adcode": 370786,
+    "latitude": 36.854937,
+    "longitude": 119.394502,
+    "precision": "地区参考中心，非采访坐标",
+    "coordinate_source": "https://geo.datav.aliyun.com/areas_v3/bound/370700_full.json"
+  }
+]
